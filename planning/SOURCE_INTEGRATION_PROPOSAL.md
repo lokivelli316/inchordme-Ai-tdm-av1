@@ -64,8 +64,8 @@ PROMOTE STATUS
 - Architecture found: `FEDERATED_BRAIN_ARCHITECTURE.md`
 - Existing architecture preserves independent model-native lanes plus shared reconciliation, dissent, provenance, promotion decisions, and human authority.
 - Existing honest limit: deliberate versioned synchronization rather than automatic/background semantic memory.
-- **Current Rumble action:** proposal/integration metadata only.
-- **Public source copy:** BLOCKED pending explicit operator publication decision plus private-state/publication review.
+- **Current Rumble action:** public-safe edition of the architecture document published at `sections/infinite-brain/source/FEDERATED_BRAIN_ARCHITECTURE.md` on operator request (2026-10-31), with private account/lane details removed. See `sections/infinite-brain/source/PUBLIC_SAFE_RECEIPT.md`.
+- **Public source copy (code, state, lanes):** BLOCKED pending explicit operator publication decision plus private-state/publication review. Only the redacted architecture document is public.
 - Preservation boundary: do not flatten model-native disagreement into artificial consensus; preserve native lanes, provenance, promotion gates, and honest runtime limits.
 - Adapter target: `sections/infinite-brain/`
 - Planned bridges: context builder, model seat lanes, shared knowledge proposals, Git relay, receipts, ACATMO artifact references.
