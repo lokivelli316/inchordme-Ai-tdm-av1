@@ -32,12 +32,19 @@ rollback_point:        parent commit of the commit that added this file
 
 ```text
 sections/shared-skills/be-ambitious/SKILL.md   canonical copy (provider-neutral)
-.claude/skills/be-ambitious                    symlink to the folder above, so
-                                               Claude sessions in this repo can
-                                               load it as /be-ambitious
+.claude/skills/be-ambitious                    symlink to the canonical folder;
+                                               Claude loader path
+.agents/skills/be-ambitious                    symlink to the same canonical folder;
+                                               Codex / Agent Skills loader path
 ```
 
-One physical copy, two views. Other seats should read the canonical path; seat-specific loader paths should link to it rather than duplicate it.
+One physical copy, multiple views. Claude and Codex both resolve to the same canonical skill text. Other seats should read the canonical path or add a loader link to it rather than duplicate or fork it.
+
+## Portability review
+
+The canonical skill is vendor-neutral instruction text. It does not depend on Claude-specific hidden behavior, APIs, tools, model internals, or executable code. OpenAI Codex supports repository-local Agent Skills built around a `SKILL.md` manifest, so the canonical skill can be used by Codex without rewriting its behavioral contract. The `.agents/skills/be-ambitious` link exists only for discovery/loading; it does not create a Codex-specific copy.
+
+Future AI collaborators should prefer the canonical path. If their harness requires a vendor-specific discovery directory, add the smallest loader/adapter pointing to the canonical skill rather than modifying the canonical skill solely for that vendor.
 
 ## What the skill does
 

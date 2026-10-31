@@ -12,6 +12,7 @@ Versioned, reproducible capabilities that compatible seats can invoke. A skill i
 
 ## Rules
 
-- One canonical copy per skill lives here. Seat-specific loaders (for example `.claude/skills/`) link to it instead of duplicating it.
+- One canonical copy per skill lives here. Seat-specific loaders (for example `.claude/skills/` and `.agents/skills/`) link to it instead of duplicating it.
+- Canonical skills should remain vendor-neutral whenever the procedure itself is vendor-neutral. A collaborator-specific loader is an adapter, not a fork of the skill.
 - Every skill folder carries an `INTEGRATION_RECEIPT.md` with source, hash, and status.
 - Landing is not promotion. Promotion follows: PROPOSED → SANDBOX → TEST → INDEPENDENT AUDIT → PERMISSION INSPECTION → OPERATOR GATE → AVAILABLE.
