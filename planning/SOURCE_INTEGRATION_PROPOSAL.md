@@ -96,6 +96,12 @@ PROMOTE STATUS
 - Adapter target: `sections/interconnect/`
 - Transport targets: Unix socket, SQLite, filesystem, Android IPC, localhost, browser extension, Git/GitHub, SSH/LAN, operator-mediated bridge.
 
+## Expanded stack candidate intake
+
+The broader donor-build, shared-skill, regression, locality/dependency, asset-fidelity, semantic-wiring, layer-ownership, real-route, and lineage candidates are tracked in [STACK_CANDIDATE_INTAKE.md](STACK_CANDIDATE_INTAKE.md).
+
+That registry is additive and pre-promotion. Naming a candidate does not represent it as implemented or verified.
+
 ## Public/private rule
 
 AI Rumble itself is public.
