@@ -723,6 +723,27 @@ This tree describes the intended integration shape. Empty or absent paths must n
 
 ---
 
+
+# RECEIPT HUNTERS GALLERY
+
+AI Rumble includes a public **Receipt Hunters Gallery** for visual receipts, load-bearing joke receipts, build/audit evidence, glorious failure receipts, and community trophies.
+
+The joke may be ridiculous. **The provenance cannot be.**
+
+See: [Receipt Hunters Gallery](gallery/receipt-hunters/README.md)
+
+---
+
+# SOURCE INTEGRATION PLANNING
+
+Before source builds are cloned, copied, vendored, adapted, or wired into the public complete build, they pass through a source-integration proposal and intake record.
+
+Private donor/source repositories remain private unless publication is explicitly authorized and reviewed.
+
+See: [Source Integration Proposal Plan](planning/SOURCE_INTEGRATION_PROPOSAL.md)
+
+---
+
 # PUBLIC BUILD PHILOSOPHY
 
 The project is intended to grow by **adding capability while preserving inspectable lineage**.
