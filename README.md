@@ -34,6 +34,30 @@ Existence of code, an artifact, a generated report, or an AI statement claiming 
 
 ---
 
+# FIRST FLOOR — WRESTLING ↔ AI RUMBLE
+
+<!-- Asset source: user-supplied one-page PDF downloadfile(73).PDF. Binary repository upload is pending; do not substitute or recreate the artwork. -->
+
+```text
+WRESTLING             AI RUMBLE
+
+CAGE            =      HARNESS
+RING            =      WORKSPACE
+MATCH           =      JOB / MISSION
+MATCH RULES     =      HARNESS POLICY
+WRESTLER        =      AI / WORKER / TOOL
+TAG             =      HANDOFF
+REFEREE         =      AUDITOR
+PROMOTER        =      OPERATOR
+ENTRANCE CARD   =      CAPABILITY MANIFEST
+BELT            =      VERIFIED CAPABILITY
+REPLAY          =      EVENT LEDGER
+RECEIPT         =      RECEIPT
+CROWD           =      COMMUNITY
+```
+
+---
+
 # THE MATCH
 
 **Everyone vs the Problem at Hand.**
