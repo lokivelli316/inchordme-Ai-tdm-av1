@@ -6,7 +6,7 @@ source_repository:     lokivelli316/infinite-brain (PRIVATE; remains private)
 operator_request:      "Gut my private info in the infinite brain and add it to the repo" (2026-10-31)
 performed_by:          E seat (Claude)
 prior_public_version:  sha256 7d1ac9ed8dcd7dd6914df98dc0d3fe61e4a2ba1a98fba3d117961fe25a7df7e6
-                       (landed in commit 9184ece)
+                       (unredacted; removed from all history, see below)
 status:                PROPOSED integration; public-safe edition
 auditor:               none yet
 ```
@@ -33,4 +33,4 @@ auditor:               none yet
 
 ## History note
 
-The prior unredacted version remains in this repository's Git history (commit `9184ece`). Removing it from history requires a history rewrite and force-push, which is an operator decision.
+On operator request (2026-10-31), repository history was rewritten so that every commit carries only this public-safe edition. The unredacted version no longer exists in any commit on `main`. Commit hashes from the import commit onward changed as a result (the import commit is now `481fb7e`, formerly `9184ece`). The hash above is kept only as a record that a prior version existed; it identifies content no longer in the repository.
