@@ -34,6 +34,12 @@ Existence of code, an artifact, a generated report, or an AI statement claiming 
 
 ---
 
+# FROM THE PROMOTER
+
+> Hey, I'm Rob. You can call me Lokivelli. You can call me the McHatchevelli. Whatever you need. I'm not here to be every developer, every wrestler in this statement. I'm just here trying to find a decent community and get things built.
+
+---
+
 # FIRST FLOOR — WRESTLING ↔ AI RUMBLE
 
 <!-- Asset source: user-supplied one-page PDF downloadfile(73).PDF. Binary repository upload is pending; do not substitute or recreate the artwork. -->
