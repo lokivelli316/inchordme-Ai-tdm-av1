@@ -9,6 +9,7 @@ Versioned, reproducible capabilities that compatible seats can invoke. A skill i
 | Skill | Version | Status | Canonical path | Receipt |
 |---|---|---|---|---|
 | `be-ambitious` | as landed (sha256 `41bbf79e…1cb3`) | PROPOSED | [be-ambitious/SKILL.md](be-ambitious/SKILL.md) | [INTEGRATION_RECEIPT.md](be-ambitious/INTEGRATION_RECEIPT.md) |
+| `no-flatten` | native v1 | PROPOSED | [no-flatten/SKILL.md](no-flatten/SKILL.md) | [INTEGRATION_RECEIPT.md](no-flatten/INTEGRATION_RECEIPT.md) |
 
 ## Rules
 
